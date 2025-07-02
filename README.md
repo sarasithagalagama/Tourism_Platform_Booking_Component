@@ -60,7 +60,7 @@ Each subclass overrides methods such as `calculateTotalPrice()` and includes spe
 **Sarasitha Galagama**  
 IT Undergraduate at SLIIT  
 📧 sarasithagalagama@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sarasitha-galagama/))
+🔗 [LinkedIn](https://www.linkedin.com/in/sarasitha-galagama/)
 
 ---
 
